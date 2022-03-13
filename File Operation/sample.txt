@@ -1,0 +1,10 @@
+Hello User!
+This is the file for checking the PDF_Generator program.
+We are creating a pdf file from the text file you are reading right now.
+If you reading this text from pdf file then we have succesfully created pdf file.
+For creating the pdf file we are using 'fpdf' module.
+This is not a built-in module. so we have to install this module using pip command.
+Just type 'pip install fpdf' in your command prompt you are using.
+After succesfull installing, you are ready to use this module by simply importing it.
+
+
